@@ -85,11 +85,3 @@ If you don’t see outputs after running, check the notebook for:
 
 - If training is slow, consider enabling GPU (Colab or local CUDA).
 - For reproducibility, set random seeds (if not already done in the notebook).
-
-## License
-
-No license file is included yet. If you want, I can add an MIT License (or another license you choose).
-
-## Acknowledgements
-
-If your notebook uses any datasets or references papers/implementations, list them here.
